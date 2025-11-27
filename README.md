@@ -1,7 +1,7 @@
 <!-- BANNER / CAPA -->
-<p align="center">
-  <img src="" width="100%" alt="Banner Priscila Desenvolvedora">
-</p>
+<!-- <p align="center">
+  <img src="" width="100%" alt="">
+</p> -->
 
 # Olá, eu sou a Priscila! 👋
 
